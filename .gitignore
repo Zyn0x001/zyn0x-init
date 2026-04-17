@@ -1,0 +1,15 @@
+# Temporary and Backup files created by text editors
+*~
+*.swp
+*.swo
+
+# Log files (in case you add error logging later)
+*.log
+
+# Secret/Environment files
+.env
+*.secret
+
+# Windows/Mac system clutter (good practice if others clone your repo)
+.DS_Store
+Thumbs.db
